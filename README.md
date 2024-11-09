@@ -37,7 +37,9 @@
 
 [- [Atividade 12]](#Atividade_12)
 - Atividade 12: table, thead, tbody, tfoot, tr, th, td
+  
 [- [Atividade 13]](#Atividade_13)
 - Atividade 13: form, label, input, textarea, select, option
+
 [- [Atividade 14]](#Atividade_14)
 - Atividade 14: br, !-- --
