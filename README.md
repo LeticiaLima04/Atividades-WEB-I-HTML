@@ -21,4 +21,4 @@ Conjunto de atividades desenvolvidas em HTML para a disciplina de WEB I (Turma 1
 
 ---
 
-✨ **Explore e aproveite os projetos!** 😊  
+✨ **Explore e aproveite as atividades!** 😊  
